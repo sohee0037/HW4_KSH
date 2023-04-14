@@ -5,7 +5,7 @@
 5. git commit -m "B"
 6. git checkout master
 7. git merge develop
-8. git commit -m "D" (resolve conflict)
+8. git commit -m "D"
 9. git checkout develop
 10. git commit -m "E"
 11. git checkout master
