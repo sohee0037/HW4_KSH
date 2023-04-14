@@ -1,0 +1,14 @@
+1. git commit -m "A"
+2. git branch develop
+3. git commit -m "C"
+4. git checkout develop
+5. git commit -m "B"
+6. git checkout master
+7. git merge develop
+8. git commit -m "D" (resolve conflict)
+9. git checkout develop
+10. git commit -m "E"
+11. git checkout master
+12. git merge develop
+13. git commit -m "F"
+14. git checkout develop
